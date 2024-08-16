@@ -1,1 +1,1 @@
-codetech task 1 responve website
+codetech task 1 responsive website
